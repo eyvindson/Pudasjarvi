@@ -1,0 +1,20 @@
+Transformation of MELA output to carbon balance (i.e. stock change) of
+forest soils, both mineral, that is, upland soils (peat thickness
+less than 30 cm, if I rember right), and forested peatlands (called
+also drained organic soils in the calculation - most forested peatlands
+are drained but I am not sure if also undrained ones belong to this catgory).
+
+
+To run the program(s) go to directory R (contains all R files of
+the calculation) and edit MELAToC_definitions.R according to your needs,
+start R, and then  >source("MELAToC_main.R").
+You should have then the result of calculation in the data frame CO2result.
+See a bit more explanation in MELAToC_main.R.
+
+The directories contain files as follows:
+
+ParameterData: data e.g. about weather, initial state For yasso etc.
+Projections: MELA output files.
+Results: Meant for various output files produced in the calculation.
+WorkFiles: Intermediate data (mainly amount of litter) of calculatiosn
+R: The R files.
