@@ -1,8 +1,14 @@
 Yasso/
 Modelling_CF_from_Biomass_fraction/*.txt
 MELASoil/WorkFiles/*.dat
-SpaFHyPeat_CP/Puhdasjarvi_data_53/
-SpaFHyPeat_CP/Puhdasjarvi_data_52/
-SpaFHyPeat_CP/Puhdasjarvi_data_51/
+SpaFHyPeat_CP/Puhdasjarvi_data_53/V6_emissions_data/
+SpaFHyPeat_CP/Puhdasjarvi_data_53/V3_emissions_data/
+SpaFHyPeat_CP/Puhdasjarvi_data_52/V3_emissions_data/
+SpaFHyPeat_CP/Puhdasjarvi_data_53/forcing/
+SpaFHyPeat_CP/Puhdasjarvi_data_52/forcing/
+SpaFHyPeat_CP/Puhdasjarvi_data_51/forcing/
+SpaFHyPeat_CP/Puhdasjarvi_data_52/V6_results/
+SpaFHyPeat_CP/Puhdasjarvi_data_51/V6_emissions_data/
+SpaFHyPeat_CP/Puhdasjarvi_data_51/V3_emissions_data/
 SpaFHyPeat_CP/results/
 SpaFHyPeat_CP/MELA_Data/
