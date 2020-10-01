@@ -1,0 +1,15 @@
+[I 09:13:26.863 NotebookApp] The port 8888 is already in use, trying another port.
+[I 09:14:01.369 NotebookApp] JupyterLab extension loaded from /appl/soft/geo/conda/miniconda3/envs/geoconda-3.8/lib/python3.8/site-packages/jupyterlab
+[I 09:14:01.369 NotebookApp] JupyterLab application directory is /appl/soft/geo/conda/miniconda3/envs/geoconda-3.8/share/jupyter/lab
+[I 09:14:01.372 NotebookApp] Serving notebooks from local directory: /scratch/project_2003225/GIT/MHPudasjarvi
+[I 09:14:01.372 NotebookApp] The Jupyter Notebook is running at:
+[I 09:14:01.372 NotebookApp] http://localhost:8889/?token=df23db567ddf0954196b6c972369723524aff54ff373ef2e
+[I 09:14:01.372 NotebookApp]  or http://127.0.0.1:8889/?token=df23db567ddf0954196b6c972369723524aff54ff373ef2e
+[I 09:14:01.372 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 09:14:01.405 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///users/keyvinds/.local/share/jupyter/runtime/nbserver-121754-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8889/?token=df23db567ddf0954196b6c972369723524aff54ff373ef2e
+     or http://127.0.0.1:8889/?token=df23db567ddf0954196b6c972369723524aff54ff373ef2e

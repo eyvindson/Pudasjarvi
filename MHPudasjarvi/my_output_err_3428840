@@ -1,0 +1,27 @@
+------------------------------------------- 
+R 3.6.1 on Puhti 
+https://docs.csc.fi/apps/r-env 
+------------------------------------------- 
+To load RStudio: module load rstudio 
+https://docs.csc.fi/apps/rstudio 
+------------------------------------------- 
+ 
+NEWS: new R environment (r-env-singularity) 
+------------------------------------------ 
+The R environment on Puhti has been 
+updated. For information, please see: 
+ 
+https://docs.csc.fi/apps/r-env-singularity 
+ 
+While the r-env module will remain 
+available, we encourage all users to 
+migrate to r-env-singularity. 
+ 
+Changes include: 
+- R update to 3.6.3 
+- Bioconductor update to 3.1.0 
+- Updated CRAN package versions 
+- RStudio Server access via web browser 
+------------------------------------------- 
+srun: Job 3428840 step creation temporarily disabled, retrying
+srun: Step created for job 3428840
